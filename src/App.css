@@ -1,0 +1,16 @@
+.App {
+  background-color: #d6e7fa;
+  /* display: flex;
+  justify-content: center; */
+  /* width: 1530px; */
+  /* height: 500px;
+  padding: 5rem; */
+  border-radius: 20px;
+ 
+} 
+
+body{
+  background-image: url("./images/images.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
